@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Diabolus13
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning PHP, Python, Java, HTML, and CSS
-- 💞️ I’m looking to collaborate on small awesome projects which offer great opportunities to learn and develop my programming skills
 - 📫 How to reach me - Through GitHub @Diabolus13, Facebook @Diabolus90 or LinkedIn.
 
 <!---
